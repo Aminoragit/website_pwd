@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+
+title: 파이썬, R 기반 빅데이터 플랫폼 개발 교육
+description: '일기장+프로젝트 개발 과정'
+url: 'https://wjsxkxk1.github.io/website/'
+baseurl: '/website'
+
+author:
+  name: 'wjsxkxk1'
+  email: wjsxkxk1@naver.com
+  twitter_username:
+  facebook_username:
+  github_username: wjsxkxk1
+  linkedin_username:
